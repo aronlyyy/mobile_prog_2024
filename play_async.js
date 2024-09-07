@@ -35,10 +35,10 @@ pizzaPromise()
 
 console.log("Waiting for your pizza");
 
-//Terminology
+//!Terminology
 //Prom ise: An object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 //Resolve: A callback function that us used when the promise is fulfilled.
 //Reject: A callback function that is used when the promise is rejected.
-// .then(): A method that is used to handle the resolved promise.
-// .catch(): A method that is used to handle the rejected promise.
+//.then(): A method that is used to handle the resolved promise.
+//.catch(): A method that is used to handle the rejected promise.
     
